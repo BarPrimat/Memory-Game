@@ -1,0 +1,13 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 5
+First Student Details.: 205707235 - Meitar Bach
+Second Student Details: 313175176 - Bar Frimet
+Delivery Date.........: 10 - July - 2020
+Delivered In Delay....: No
+Delay Reason..........: <Delay Reason>
+Visual Studio Version.: 2019
+Comments..............: Revised version. Minor code re-organization and division to methods.
+			Restarting the game after playing the offline version and connecting to the internet in the end takes time but works.
+			We implemented the images bonus - if there is no connection, an offline version without the images runs.
+			We implemented the second bonus in the logic part - GameCell raises an event when it's Revealed state is changed. This event is handeled by the UI.
+=======================End Exercise Checking Report=========================
